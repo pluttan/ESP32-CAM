@@ -1,0 +1,4 @@
+.pio/
+managed_components/
+sdkconfig.esp32cam
+dependencies.lock
